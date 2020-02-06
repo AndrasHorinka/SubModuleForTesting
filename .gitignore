@@ -50,8 +50,10 @@
 .idea/**/shelf
 
 #project files
-/FancyLibrary/bin
-/FancyLibrary/obj
+#/FancyLibrary/bin
+#/FancyLibrary/bin/
+#/FancyLibrary/obj
+#/FancyLibrary/obj/
 
 # Generated files
 .idea/**/contentModel.xml
