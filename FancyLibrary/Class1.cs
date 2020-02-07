@@ -6,7 +6,7 @@ namespace FancyLibrary
     {
         public void FirstFancyMessage()
         {
-            Console.WriteLine("Initial fancy message is being sent from submodule..\n");
+            Console.WriteLine("First Fancy Message is updated for TestCase 9..\n");
         }
     }
 }
