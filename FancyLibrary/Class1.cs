@@ -6,7 +6,7 @@ namespace FancyLibrary
     {
         public void FirstFancyMessage()
         {
-            Console.WriteLine("First Fancy Message is updated for TestCase 9..\n");
+            Console.WriteLine("Test Case 12 - fingers crossed.\n");
         }
     }
 }
