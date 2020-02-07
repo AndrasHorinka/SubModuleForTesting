@@ -6,7 +6,7 @@ namespace FancyLibrary
     {
         public void FirstFancyMessage()
         {
-            Console.WriteLine("Initial fancy message is being sent from submodule..\n");
+            Console.WriteLine("Test Case 11 - Changes made on Master Branch on Submodule's own repo (ProjectB).\n");
         }
     }
 }
